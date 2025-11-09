@@ -1,0 +1,10 @@
+  # kafkacat:
+  #   image: confluentinc/cp-kafkacat:latest
+  #   container_name: kafkacat
+  #   depends_on:
+  #     - kafka
+  #   networks:
+  #     - default
+  #   stdin_open: true
+  #   tty: true
+  #   restart: unless-stopped

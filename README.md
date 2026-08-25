@@ -8,6 +8,8 @@ GRPC = http://localhost:50051 -> proto/gold_gym.proto
 
 - using GORM, SQLX, GIN, GRPC, ECHO, MUX (Framework can choose by deleting unused framework)
 
+(gold-gym-v2 berganti menjadi repository gold-gym-be-v2-portfolio)
+
 https://github.com/okafuizagoto/gold-gym-be-v2-portfolio 
 
 URL (gold-gym-be-v2-portfolio) :
